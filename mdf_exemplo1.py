@@ -13,7 +13,7 @@ $$
 
 Para isso, vamos usar um $\Delta x = 0.25$.
 
-A fórmual de Diferença Finita para essa equação é dada por:
+A fórmula de Diferença Finita para essa equação é dada por:
 
 \begin{align}
 u_{i+1} + [(\Delta x)^2 -2]u_i + u_{i-1} = -(\Delta x)^2 x_i
